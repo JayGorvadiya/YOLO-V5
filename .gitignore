@@ -1,0 +1,8 @@
+/datasets/
+/YOLO/
+
+/yolov5/*
+
+
+!/yolov5/pretrainedmodel.py
+!/yolov5/best.pt
